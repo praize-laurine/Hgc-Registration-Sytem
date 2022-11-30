@@ -246,7 +246,6 @@
   
   
   
-  // Remy function
   @function remy($value) {
   @return ($value / 16px) * 1rem;
   }
